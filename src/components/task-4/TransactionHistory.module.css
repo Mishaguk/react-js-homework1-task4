@@ -1,0 +1,19 @@
+.info {
+	background-color: aqua;
+}
+.type {
+    font-size: large;
+}
+.amount {
+	padding-left: 20px;
+    font-size: large;
+}
+.currency {
+	padding-left: 30px;
+    font-size: large;
+}
+.transactionHistory {
+    border: black solid ;
+    width: 267px;
+    box-shadow: 0 0 7px #666;
+}
