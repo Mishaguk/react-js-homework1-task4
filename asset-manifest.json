@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-js-homework1-task4/static/css/main.f2448845.chunk.css",
-    "main.js": "/react-js-homework1-task4/static/js/main.ce469e05.chunk.js",
-    "main.js.map": "/react-js-homework1-task4/static/js/main.ce469e05.chunk.js.map",
+    "main.js": "/react-js-homework1-task4/static/js/main.87140b56.chunk.js",
+    "main.js.map": "/react-js-homework1-task4/static/js/main.87140b56.chunk.js.map",
     "runtime-main.js": "/react-js-homework1-task4/static/js/runtime-main.8d73a690.js",
     "runtime-main.js.map": "/react-js-homework1-task4/static/js/runtime-main.8d73a690.js.map",
     "static/js/2.949fc136.chunk.js": "/react-js-homework1-task4/static/js/2.949fc136.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.8d73a690.js",
     "static/js/2.949fc136.chunk.js",
     "static/css/main.f2448845.chunk.css",
-    "static/js/main.ce469e05.chunk.js"
+    "static/js/main.87140b56.chunk.js"
   ]
 }
